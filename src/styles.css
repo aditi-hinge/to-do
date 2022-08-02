@@ -1,0 +1,23 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  /* font-family: "Edu TAS Beginner", cursive; */
+}
+
+.successful {
+  background-color: green;
+  color: white;
+}
+
+.failed {
+  background-color: red;
+  color: white;
+}
+
+.input {
+  font-family: "Edu TAS Beginner", cursive;
+}
